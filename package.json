@@ -1,11 +1,8 @@
 {
-  "name": "eslint-plugin-66nao",
-  "version": "0.1.0",
-  "description": "66nao js code format using eslint",
+  "name": "eslint-config-66nao",
+  "version": "0.1.1",
+  "description": "eslint config for 66nao projects",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/66nao/eslint-glugin-66nao.git"
