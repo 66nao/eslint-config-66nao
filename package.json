@@ -1,0 +1,27 @@
+{
+  "name": "eslint-plugin-66nao",
+  "version": "0.1.0",
+  "description": "66nao js code format using eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/66nao/eslint-glugin-66nao.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "66nao"
+  ],
+  "author": "erguotou <erguotou525@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/66nao/eslint-glugin-66nao/issues"
+  },
+  "homepage": "https://github.com/66nao/eslint-glugin-66nao#readme",
+  "dependencies": {
+    "eslint-config-vue": "^1.0.3"
+  }
+}
