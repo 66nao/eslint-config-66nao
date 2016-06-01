@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-66nao",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "eslint config for 66nao projects",
   "main": "index.js",
   "repository": {
@@ -15,9 +15,9 @@
   "author": "erguotou <erguotou525@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/66nao/eslint-glugin-66nao/issues"
+    "url": "https://github.com/66nao/eslint-config-66nao/issues"
   },
-  "homepage": "https://github.com/66nao/eslint-glugin-66nao#readme",
+  "homepage": "https://github.com/66nao/eslint-config-66nao#readme",
   "dependencies": {
     "eslint-config-vue": "^1.0.3"
   }
